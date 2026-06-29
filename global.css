@@ -1,0 +1,7 @@
+body.narrow {
+    max-width: 1200px;
+    margin: 8px auto;
+    border: 1px solid gray;
+    border-radius: 16px;
+    padding: 16px;
+}
